@@ -13,5 +13,11 @@
         "*_test.py"
     ],
     "python.testing.promptToConfigure": false,
-    "python.pythonPath": "c:\\Users\\leona\\OneDrive\\Documents\\estudando-python\\venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\leona\\OneDrive\\Documents\\estudando-python\\venv\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "c:\\Users\\leona\\OneDrive\\Documents\\estudando-python\\venv\\Scripts\\python.exe",
+ 
+       
+    }
 }
